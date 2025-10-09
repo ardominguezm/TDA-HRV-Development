@@ -8,11 +8,11 @@ This repository contains all scripts used in the study:
 
 
 ##  Workflow overview
-1. **Preprocessing** (`notebooks/01_Preprocessing_HRV.ipynb`)
+1. **Preprocessing** (`01_Preprocessing_HRV.ipynb`)
    - Loads RR interval time series from PhysioNet
    - Performs artifact filtering, z-score normalization, and truncation (3000 points)
 
-2. **Embedding Parameter Selection** (`parameters_embedding.ipynb`)
+2. **Embedding Parameter Selection** (`00-Parameters_embedding.ipynb`)
    - Estimates optimal delay (τ) and embedding dimension (d)
    - Compares FNN and Cao’s methods
 
@@ -20,7 +20,7 @@ This repository contains all scripts used in the study:
    - Builds delay embeddings using τ=10, d=3
    - Computes persistent homology (H₁), landscapes, and persistence entropy
 
-4. **Conventional HRV Analysis** (`01_HRV_Conventional_Analysis.ipynb`)
+4. **Conventional HRV Analysis** (`03_HRV_Conventional_Analysis.ipynb`)
    - Calculates SDNN, RMSSD, PNN50
    - Performs Kruskal–Wallis tests across developmental age groups
 
