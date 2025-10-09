@@ -33,10 +33,6 @@ This repository contains all scripts used in the study:
 
 ##  Data availability
 Raw RR interval data are publicly available from PhysioNet:
-> [RR interval time series from healthy subjects]([https://doi.org/10.13026/C2V88V](https://doi.org/10.13026/51yd-d219))
+> [RR interval time series from healthy subjects]([https://doi.org/10.13026/51yd-d219](https://doi.org/10.13026/51yd-d219))
 
 ---
-
-
-GitHub repository: https://github.com/andydom/TDA-HRV-Development
-```
