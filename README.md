@@ -27,10 +27,6 @@ This repository contains all scripts used in the study:
 5. **Statistical Analysis & Visualization** (`stats_analysis.py`)
    - Correlation analyses between TDA and conventional metrics
    - Landscape distance matrices (intra/inter-group)
-   - figures and tables
-
-
-##  Data availability
-Raw RR interval data are publicly available from PhysioNet:
-> [RR interval time series from healthy subjects]([https://doi.org/10.13026/51yd-d219](https://doi.org/10.13026/51yd-d219))
+   - Figures and tables
+---
 
