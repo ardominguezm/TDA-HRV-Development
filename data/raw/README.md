@@ -20,6 +20,5 @@ Modifying files in this folder is **strictly prohibited** to ensure reproducibil
 ### Folder structure:
 raw/
 ├── physionet-original/
-│ ├── *.txt
-│ └── RECORDS
+│ 
 └── README.md
