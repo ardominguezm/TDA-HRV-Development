@@ -7,8 +7,6 @@ This repository contains the full data-processing pipeline, analysis scripts, an
 > **PLOS ONE**, 20(11): e0337620.  
 > https://doi.org/10.1371/journal.pone.0337620
 
-The repository follows a FAIR-compliant structure, separating raw data, processed data, metadata, analysis products, and executable code.
-
 ---
 
 ## Repository Structure
