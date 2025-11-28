@@ -11,7 +11,7 @@ The repository follows a FAIR-compliant structure, separating raw data, processe
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 TDA-HRV-Development/
 │
