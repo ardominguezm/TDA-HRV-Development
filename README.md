@@ -10,30 +10,33 @@ This repository contains the full data-processing pipeline, analysis scripts, an
 ---
 
 ## Repository Structure
+
+```
 TDA-HRV-Development/
 │
 ├── data/
-│ ├── metadata/
-│ │ ├── patient-info.csv
-│ │ └── README.md
-│ │
-│ ├── processed/
-│ │ ├── tda_dim1_features.csv
-│ │ └── README.md
-│ │
-│ └── raw/
-│ ├── physionet-original/
-│ └── README.md
+│   ├── metadata/
+│   │   ├── patient-info.csv
+│   │   └── README.md
+│   │
+│   ├── processed/
+│   │   ├── tda_dim1_features.csv
+│   │   └── README.md
+│   │
+│   └── raw/
+│       ├── physionet-original/
+│       └── README.md
 │
 ├── notebooks/
-│ ├── Notebook_01_Preprocessing_of_HRV_Time_Series.ipynb
-│ ├── Notebook_02_Topological_Feature_Extraction.ipynb
-│ ├── Notebooks 00 - Parameters_embedding.ipynb
-│ └── Notebooks 03_HRV_Conventional_Analysis_ipynb.ipynb
+│   ├── Notebook_01_Preprocessing_of_HRV_Time_Series.ipynb
+│   ├── Notebook_02_Topological_Feature_Extraction.ipynb
+│   ├── Notebooks 00 - Parameters_embedding.ipynb
+│   └── Notebooks 03_HRV_Conventional_Analysis_ipynb.ipynb
 │
 ├── stats_analysis.py
 ├── LICENSE
 └── README.md
+```
 
 
 ## Data Sources
