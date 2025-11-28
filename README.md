@@ -45,7 +45,7 @@ TDA-HRV-Development/
 - **Dataset:** RR Interval Time Series from Healthy Subjects  
 - **URL:** https://physionet.org/content/rr-interval-healthy-subjects/1.0.0/  
 - **Subjects:** 147 healthy individuals (ages 1 month to 55 years)  
-- **Notes:** Signals include artifact filtering and DFA metrics (original study)
+- **Notes:** Signals include artifact filtering (original study)
 
 ### **2. Metadata**
 Located in: `data/metadata/patient-info.csv`  
