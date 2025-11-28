@@ -54,7 +54,7 @@ Includes:
 - Sex  
 - Recording ID  
 - Study source  
-- WHO developmental stage grouping  
+- Developmental stage grouping  
 
 ---
 
@@ -67,10 +67,3 @@ Includes:
 5. **Statistical Analysis & Visualization** – `stats_analysis.py`
 
 ---
-
-## Reproducibility
-
-Install environment:
-
-```bash
-pip install -r requirements.txt
