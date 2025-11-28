@@ -16,6 +16,10 @@ Modifying files in this folder is **strictly prohibited** to ensure reproducibil
 - **URL:** https://physionet.org/content/rr-interval-healthy-subjects/1.0.0/
 - **Description:**  
   Includes RR interval time series from 147 healthy individuals aged 1 month to 55 years.  
-  Collected by the Research Group of Signals, Systems and Computational Intelligence (Universidad de La Plata).
 
 ### Folder structure:
+raw/
+├── physionet-original/
+│ ├── *.txt
+│ └── RECORDS
+└── README.md
