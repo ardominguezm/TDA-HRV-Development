@@ -2,7 +2,7 @@
 
 This repository contains all scripts used in the study:
 
-> **"Domínguez A., Mateos A., Jiménez A., Age-dependent patterns of cardiac complexity unveiled by topological data analysis of pediatric heart rate variability, PLoS One, In review (Oct 2025)"**
+> Domínguez A., Mateos A., Jiménez A., *Age-dependent patterns of cardiac complexity unveiled by topological data analysis of pediatric heart rate variability*, PLoS One 20(11): e0337620. https://doi.org/10.1371/journal.pone.0337620**
 
 ---
 
