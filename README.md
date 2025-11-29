@@ -8,6 +8,8 @@ This repository contains the full data-processing pipeline, analysis scripts, an
 > https://doi.org/10.1371/journal.pone.0337620
 
 ---
+## Funding 
+This paper was supported by the grants PID2021-122209OB-C31, RED2022-134540-T and PID2024-155179NB-C22 funded by MICIU/AEI/10.13039/501100011033.
 
 ## Repository Structure
 
